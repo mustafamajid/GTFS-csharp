@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GTFS_csharp.Algorithm">
+    <Position X="8.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAEAAAgAAAAAICAAAAAQgAAAAAAIAACAAA=</HashCode>
+      <FileName>Algorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.GTFSData">
+    <Position X="10.75" Y="1.5" Width="2.25" />
+    <Members>
+      <Method Name="ch" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAABQAAACAAgAAOAECIAAAAAIACAAABCAKBAQAAgBAA=</HashCode>
+      <FileName>GTFSData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.RedisActions">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAACAAQAAAIEAAAAAAAAAQAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>RedisActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.RouteFile">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAIAAAAgAAAAAACAAABAACAIAAAIAgAAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.Stop">
+    <Position X="0.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAICYCAAEBAAAAEBAAAhAAAAAgAAAAAAAEDEAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.Trip">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAQAIAAAAAAAAACAAAJgAAAAiAACAAgAAAAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.StopTime">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEoAAAAAAAAAAAAEAAAAAAIAAAAgQAAAAIBAAAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.calender" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAAAAAAAAAAAAAgAAAAAACAAEAAAAAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.calender_date">
+    <Position X="7.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAAAAAQQAAAA=</HashCode>
+      <FileName>CSVFileReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

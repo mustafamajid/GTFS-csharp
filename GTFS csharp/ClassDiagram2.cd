@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GTFS_csharp.Stopdata">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAICACAAEBAAAAABAABhAAAAAgAAAAAAAEAEAAA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.route" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAQAAAAAAAAAAAAACAAAAAACAAAAAAAAAABA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GTFS_csharp.move">
+    <Position X="10" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAAAAAAAAAAgAAAAAAAAQCCAAAAAAQAAAAA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.path" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAACEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIEABA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GTFS_csharp.Qeueu">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.ServiceData">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIIAAAAAAAAAAAAAAhAAAAAACAAAAAIAAAA=</HashCode>
+      <FileName>dynamicobjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GTFS_csharp.Algorithm">
+    <Position X="12.25" Y="5.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAEAAAgAAAAAICAAAAAQgAAAAAAIAACAAA=</HashCode>
+      <FileName>Algorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
